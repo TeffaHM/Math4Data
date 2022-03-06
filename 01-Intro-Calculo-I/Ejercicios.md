@@ -2,7 +2,7 @@
 **1)** Responde para cada número con N, E, Re, Ra o I según sea Naturales, Enteros, Reales,
 Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -> R: N.
 
-    a- 198
+    a- 198 -> N
     b- 4
     c- -3.1
     d- -1/4
