@@ -59,41 +59,47 @@ un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la re
 menor (redondea la respuesta a su PRIMER número decimal):
 
     a- Cuál es su seno?
-    2/3.6
+    2/3.6 = 0.6
     b- Cuál es su coseno?
+    3/3.6 = 0.8
     c- Cuál es su tangente?
+    2/3 = 0.7
 
 Usando las funciones inversas en la calculadora (o bien en internet) arccos, arcsin y/o arctan, responder:
 
     d- Cuántos grados mide el menor de los dos ángulos agudos?
+    33.7
     e- Y el mayor?
+    56.3
 
 **7)** Elige la opción correcta para cada caso.
 
     a- 0 = 
         i- cos(0)
-        ii- sen(0)
+        ii- sen(0) Aquí
     b- 1 = 
-        i- cos(0)
+        i- cos(0) Aquí
         ii- sen(0)
     c- -1 =
         i- cos(90)
-        ii- sen(270)
+        ii- sen(270) Aquí
     d- 0 =
         i- cos(180)
-        ii- tg(180)
+        ii- tg(180) Aquí
 
 **8)** Responde V o F.
 
-    a- log(3+4) = log(7)
-    b- log(20) = log(10)+log(10)
-    c- 2*log(5) = log(25)
-    d- log(24) - 3*log(2) = log(3)
+    a- log(3+4) = log(7) V
+    b- log(20) = log(10)+log(10) F
+    c- 2*log(5) = log(25) V
+    d- log(24) - 3*log(2) = log(3) V
 
 **9)** Para cada gráfica, responde si V o F "es función":
 
 <img  src='./figuras/EX_9.png' height='270px'>
+A, B, D si son funciones
 <img  src='./figuras/EX_9b.png' height='150px'>
+I si son funciones
 
 
 **10)** Para cada tabla, elige la función correspondiente.
@@ -102,8 +108,8 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
 <img  src='./figuras/EX_10.png' height='170px'>
 
     -A 
-        i- f(x)= 4*x+1
-        ii- f(x)= 3*x+2
+        i- f(x)= 4*x+1    
+        ii- f(x)= 3*x+2  Aquí
         iii- f(x)= 3*x+1
         iv- f(x)= 5*x
 
@@ -111,31 +117,33 @@ Usando las funciones inversas en la calculadora (o bien en internet) arccos, arc
         i- f(x)= 2*x
         ii- f(x)= x^2+1
         iii- f(x)= 4*x
-        iv- f(x)= x^2
+        iv- f(x)= x^2  Aquí
 
     -C 
         i- f(x)= x/3
-        ii- f(x)= x/2 + 1
+        ii- f(x)= x/2 + 1 Aquí
         iii- f(x)= 0.5 * x
         iv- f(x)= 0.3 * x + 2
 
 **11)** Sobre las funciones del ejercicio anterior, responde V o F.
 
     -A  
-        - pendiente = 4
-        - ordenada al origen = 2
-        - no es una recta
+        - pendiente = 4 F
+        - ordenada al origen = 2 V
+        - no es una recta F
 
     -B  
-        - pendiente = 2
-        - ordenada al origen = 0
-        - no es una recta
+        - pendiente = 2 F
+        - ordenada al origen = 0 V
+        - no es una recta V
 
     -C  
-        - pendiente = 0.5
-        - ordenada al origen = 1
-        - no es una recta
+        - pendiente = 0.5 V
+        - ordenada al origen = 1 V
+        - no es una recta F
 
 **12)** Calcula la pendiente y ordenada al origen de la siguiente recta:
 
 <img  src='./figuras/EX_12.png' height='270px'>
+Pendiente es -0.5
+La ordenada al origen es 2
