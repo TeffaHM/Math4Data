@@ -3,19 +3,19 @@
 Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -> R: N.
 
     a- 198 -> N
-    b- 4
-    c- -3.1
-    d- -1/4
-    e- 10.0
-    f- 2*e
-    g- -123.0004
+    b- 4   -> N
+    c- -3.1 -> Ra
+    d- -1/4 -> Ra
+    e- 10.0 -> N
+    f- 2*e  -> I
+    g- -123.0004 -> Ra
 
 
 **2)** Calcula los siguientes porcentajes y y redondea la respuesta a su PRIMER número decimal
 
-    a- 30% de 2000
-    b- 2000% de 30
-    c- 10% de 150
+    a- 30% de 2000 ->
+    b- 2000% de 30 ->
+    c- 10% de 150  ->
     d- 25.5% de 27
     e- 25.5% de 0.9
 
