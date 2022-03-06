@@ -45,14 +45,14 @@ un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la re
 
 <img  src='./figuras/EX_5.png' height='270px'>
 
-  - 30
-  - 45
-  - 60
-  - 90
-  - 150
-  - 120
-  - 180
-  - 90
+  - 30 E
+  - 45 F
+  - 60 A
+  - 90 B
+  - 150 C
+  - 120 H
+  - 180 D
+  - 90  G
 
 
 **6)** Para un triángulo rectángulo de cateto_1 = 2, cateto_2= 3 e hipotenusa = 3.6, responde sobre el ángulo
