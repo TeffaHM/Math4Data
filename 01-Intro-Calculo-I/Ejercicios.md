@@ -59,6 +59,7 @@ un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la re
 menor (redondea la respuesta a su PRIMER número decimal):
 
     a- Cuál es su seno?
+    2/3.6
     b- Cuál es su coseno?
     c- Cuál es su tangente?
 
