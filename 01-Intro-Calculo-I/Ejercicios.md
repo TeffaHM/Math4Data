@@ -38,7 +38,7 @@ un descuento con la tarjeta de fidelidad. Finalmente pagué 196$. Redondea la re
     a- De qué porcentaje fue el descuento con la tarjeta de fidelidad?
     20 %
     b- Cuánto dinero me ahorré por la promo y cuanto por la tarjeta de fidelidad?
-    70 $ y 84 $
+    105 $ y 49 $
 
 
 **5)** Para cada medida en grados a continuación, responde con la letra que corresponde al ángulo de la figura.
